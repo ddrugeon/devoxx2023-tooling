@@ -34,4 +34,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ddrugeon/devoxx2023-tooling:latest
+          tags: ghcr.io/ddrugeon/devoxx2023-tooling:latest
